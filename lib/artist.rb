@@ -5,7 +5,7 @@ class Artist
 
   def initialize(name)
     @name = name
-    @songs = [#<Artist:0x00000000027d9338 @name="Michael Jackson", @songs=[]>]
+    @songs = [#<Artist:0x00000000027d9338 @name="Michael Jackson", @songs=[]>
   end
 
   def add_song(song)
