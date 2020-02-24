@@ -1,5 +1,4 @@
 
-@@ -0,0 +1,12 @@
 class MP3Importer
   attr_reader :path, :files
 
